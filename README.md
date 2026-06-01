@@ -40,6 +40,8 @@ A Python program that reverses the elements of an array using index traversal an
 
 ### Searching Algorithms
 - Linear Search
+- ### Linear Search
+A Python implementation of the Linear Search algorithm that searches for a target element by checking each item sequentially.
 - Binary Search
 
 ### Sorting Algorithms
