@@ -49,6 +49,8 @@ A Python implementation of the Binary Search algorithm that efficiently finds a 
 ### Sorting Algorithms
 - Bubble Sort
 - Selection Sort
+- ### Selection Sort
+A Python implementation of the Selection Sort algorithm that repeatedly selects the smallest element and places it in its correct position.
 - Insertion Sort
 
 
