@@ -52,6 +52,8 @@ A Python implementation of the Binary Search algorithm that efficiently finds a 
 - ### Selection Sort
 A Python implementation of the Selection Sort algorithm that repeatedly selects the smallest element and places it in its correct position.
 - Insertion Sort
+- ### Insertion Sort
+A Python implementation of the Insertion Sort algorithm that builds a sorted array by inserting elements into their correct positions.
 
 
 ## 📌 Purpose
