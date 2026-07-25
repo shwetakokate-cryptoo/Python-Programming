@@ -266,7 +266,25 @@ A Python implementation of cycle detection in an undirected graph using Depth-Fi
 ### Hashing 
 - Hash Table Basics
 - Dictionary-Based Implementations
+- 
+### 5. Shortest Path Using BFS
 
+A Python implementation of finding the shortest path in an unweighted graph using Breadth-First Search (BFS).
+
+#### Features
+
+- Add Vertices
+- Add Edges
+- Find Shortest Path
+- Queue-Based BFS
+
+#### Concepts Covered
+
+- Breadth-First Search (BFS)
+- Shortest Path
+- Queue
+- Path Reconstruction
+- Unweighted Graph
 ---
 
 ## 📂 Repository Structure
