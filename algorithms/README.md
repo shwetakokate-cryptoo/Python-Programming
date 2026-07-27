@@ -17,3 +17,22 @@ A Python implementation of the Binary Search algorithm for searching elements in
 - Divide and Conquer
 - Searching Algorithms
 - Time Complexity
+---
+### 2. Merge Sort
+
+A Python implementation of the Merge Sort algorithm using the Divide and Conquer approach.
+
+#### Features
+
+- Recursive Implementation
+- Divide and Conquer Strategy
+- Merge Two Sorted Lists
+- Stable Sorting Algorithm
+
+#### Concepts Covered
+
+- Merge Sort
+- Divide and Conquer
+- Recursion
+- Array Merging
+- Sorting Algorithms
