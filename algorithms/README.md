@@ -36,3 +36,23 @@ A Python implementation of the Merge Sort algorithm using the Divide and Conquer
 - Recursion
 - Array Merging
 - Sorting Algorithms
+
+  ### 3. Quick Sort
+
+A Python implementation of the Quick Sort algorithm using the Divide and Conquer approach.
+
+#### Features
+
+- Recursive Implementation
+- In-Place Sorting
+- Partition-Based Algorithm
+- Efficient Average-Case Performance
+
+#### Concepts Covered
+
+- Quick Sort
+- Divide and Conquer
+- Recursion
+- Pivot Selection
+- Partitioning
+- Sorting Algorithms
