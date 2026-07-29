@@ -37,6 +37,7 @@ A Python implementation of the Merge Sort algorithm using the Divide and Conquer
 - Array Merging
 - Sorting Algorithms
 
+---
   ### 3. Quick Sort
 
 A Python implementation of the Quick Sort algorithm using the Divide and Conquer approach.
@@ -56,3 +57,24 @@ A Python implementation of the Quick Sort algorithm using the Divide and Conquer
 - Pivot Selection
 - Partitioning
 - Sorting Algorithms
+
+---
+
+### 4. Recursion Examples
+
+A Python implementation of common recursive algorithms.
+
+#### Features
+
+- Factorial
+- Fibonacci
+- Sum of First n Numbers
+- Reverse a String
+
+#### Concepts Covered
+
+- Recursion
+- Base Case
+- Recursive Case
+- Function Calls
+- Problem Decomposition
