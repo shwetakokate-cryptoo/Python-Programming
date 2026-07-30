@@ -78,3 +78,21 @@ A Python implementation of common recursive algorithms.
 - Recursive Case
 - Function Calls
 - Problem Decomposition
+---
+### 5. Dynamic Programming - Fibonacci
+
+A Python implementation of the Fibonacci sequence using recursion and dynamic programming (memoization).
+
+#### Features
+
+- Recursive Fibonacci
+- Memoized Fibonacci
+- Performance Optimization
+
+#### Concepts Covered
+
+- Dynamic Programming
+- Memoization
+- Overlapping Subproblems
+- Recursive Algorithms
+- Optimization
