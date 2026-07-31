@@ -96,3 +96,22 @@ A Python implementation of the Fibonacci sequence using recursion and dynamic pr
 - Overlapping Subproblems
 - Recursive Algorithms
 - Optimization
+- ---
+### 6. Two Sum
+
+A Python implementation of the Two Sum problem using a hash map for efficient lookup.
+
+#### Features
+
+- Find Two Numbers Matching Target Sum
+- Return Indices
+- Hash Map-Based Solution
+- Efficient Lookup
+
+#### Concepts Covered
+
+- Hash Map
+- Dictionary
+- Time Optimization
+- Array Traversal
+- Searching Algorithms
