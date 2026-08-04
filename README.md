@@ -23,3 +23,21 @@ Ensures that only one instance of a class exists throughout the application.
 - Creational Design Patterns
 - Singleton
 - ---
+## 2. Factory Method Pattern
+
+Creates objects without exposing the object creation logic to the client.
+
+### Features
+
+- Object Creation Through Factory
+- Polymorphism
+- Loose Coupling
+- Extensible Design
+
+### Concepts Covered
+
+- Factory Method
+- Abstract Base Classes
+- Inheritance
+- Polymorphism
+- Creational Design Pattern
