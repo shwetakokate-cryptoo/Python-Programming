@@ -41,3 +41,21 @@ Creates objects without exposing the object creation logic to the client.
 - Inheritance
 - Polymorphism
 - Creational Design Pattern
+- ---
+## 3. Builder Pattern
+
+Constructs complex objects step by step while keeping the construction process separate from the final object.
+
+### Features
+
+- Step-by-Step Object Creation
+- Fluent Interface
+- Reusable Builder
+- Improved Readability
+
+### Concepts Covered
+
+- Builder Pattern
+- Method Chaining
+- Object Composition
+- Creational Design Pattern
