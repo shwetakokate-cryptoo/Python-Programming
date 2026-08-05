@@ -59,3 +59,22 @@ Constructs complex objects step by step while keeping the construction process s
 - Method Chaining
 - Object Composition
 - Creational Design Pattern
+- ---
+
+## 4. Observer Pattern
+
+Implements the Observer Pattern, where multiple objects are automatically notified whenever the state of another object changes.
+
+### Features
+
+- Subscribe and Unsubscribe Observers
+- Automatic Notifications
+- Loose Coupling
+- Event-Driven Communication
+
+### Concepts Covered
+
+- Observer Pattern
+- Subject and Observer
+- Event Notification
+- Behavioral Design Pattern
