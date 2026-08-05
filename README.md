@@ -78,3 +78,21 @@ Implements the Observer Pattern, where multiple objects are automatically notifi
 - Subject and Observer
 - Event Notification
 - Behavioral Design Pattern
+---
+## 5. Strategy Pattern
+
+Implements the Strategy Pattern to allow selecting different algorithms or behaviors at runtime.
+
+### Features
+
+- Runtime Strategy Selection
+- Interchangeable Algorithms
+- Loose Coupling
+- Easy Extensibility
+
+### Concepts Covered
+
+- Strategy Pattern
+- Polymorphism
+- Composition
+- Behavioral Design Pattern
