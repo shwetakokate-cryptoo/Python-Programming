@@ -118,4 +118,21 @@ Implements the Adapter Pattern to enable incompatible interfaces to work togethe
 
 
   ---
+  ## 7. Decorator Pattern
+
+Implements the Decorator Pattern to dynamically add responsibilities to objects without modifying their original class.
+
+### Features
+
+- Dynamic Feature Addition
+- Flexible Object Composition
+- Open/Closed Principle
+- Reusable Decorators
+
+### Concepts Covered
+
+- Decorator Pattern
+- Structural Design Pattern
+- Object Composition
+- Open/Closed Principle
   
