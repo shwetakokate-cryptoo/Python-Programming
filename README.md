@@ -96,3 +96,26 @@ Implements the Strategy Pattern to allow selecting different algorithms or behav
 - Polymorphism
 - Composition
 - Behavioral Design Pattern
+- ---
+
+## 6. Adapter Pattern
+
+Implements the Adapter Pattern to enable incompatible interfaces to work together without modifying their existing code.
+
+### Features
+
+- Interface Adaptation
+- Legacy System Integration
+- Reusable Adapter
+- Loose Coupling
+
+### Concepts Covered
+
+- Adapter Pattern
+- Structural Design Pattern
+- Object Composition
+- Interface Conversion
+
+
+  ---
+  
