@@ -136,3 +136,21 @@ Implements the Decorator Pattern to dynamically add responsibilities to objects 
 - Object Composition
 - Open/Closed Principle
   
+---
+## 8. Command Pattern
+
+Implements the Command Pattern by encapsulating requests as objects, allowing commands to be executed independently of the requester.
+
+### Features
+
+- Encapsulated Requests
+- Loose Coupling
+- Command Execution
+- Reusable Commands
+
+### Concepts Covered
+
+- Command Pattern
+- Behavioral Design Pattern
+- Command Objects
+- Invoker and Receiver
