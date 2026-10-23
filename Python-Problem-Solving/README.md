@@ -1,0 +1,60 @@
+# Python Problem Solving
+
+A collection of Python programs focused on problem-solving, logic building, and basic data structures & algorithms.
+
+### Basics
+- Even/Odd Number
+- Prime Number
+- ### Prime Number Checker
+A Python program that checks whether a number is prime or not using loops and conditions.
+- Factorial
+- ### Factorial Calculator
+A Python program that calculates the factorial of a number using loops and functions.
+- Fibonacci Series
+- ### Fibonacci Series
+A Python program that generates Fibonacci numbers using loops and sequence logic.
+- Palindrome Number
+
+### Patterns
+- Star Triangle
+- ### Star Triangle Pattern
+A Python program that prints a right-angled star triangle using nested loops.
+- Pyramid Pattern
+- Diamond Pattern
+- ### Diamond Pattern
+A Python program that prints a diamond-shaped star pattern using nested loops and spacing logic.
+
+### Arrays
+- Largest Element
+- ### Largest Element in Array
+A Python program that finds the largest element from an array using loops and comparison logic.
+- Second Largest Element
+- ### Second Largest Element in Array
+A Python program that finds the second largest element from an array using comparison logic and loops.
+- Array sum
+- ### Array Sum
+A Python program that calculates the sum of all elements in an array using loops.
+- Reverse Array
+- ### Reverse Array
+A Python program that reverses the elements of an array using index traversal and loops.
+
+### Searching Algorithms
+- Linear Search
+- ### Linear Search
+A Python implementation of the Linear Search algorithm that searches for a target element by checking each item sequentially.
+- Binary Search
+- ### Binary Search
+A Python implementation of the Binary Search algorithm that efficiently finds a target element in a sorted array.
+
+### Sorting Algorithms
+- Bubble Sort
+- Selection Sort
+- ### Selection Sort
+A Python implementation of the Selection Sort algorithm that repeatedly selects the smallest element and places it in its correct position.
+- Insertion Sort
+- ### Insertion Sort
+A Python implementation of the Insertion Sort algorithm that builds a sorted array by inserting elements into their correct positions.
+
+
+## 📌 Purpose
+To improve problem-solving skills and strengthen programming fundamentals using Python.
